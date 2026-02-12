@@ -9,7 +9,7 @@
         "php": "^8.3",
         "ashallendesign/email-utilities": "^1.0.0",
         "blade-ui-kit/blade-icons": "^1.8",
-        "laravel/framework": "^12.5",
+        "laravel/framework": "^12.10",
         "laravel/tinker": "^2.10.1",
         "owenvoke/blade-fontawesome": "^2.9"
     },
