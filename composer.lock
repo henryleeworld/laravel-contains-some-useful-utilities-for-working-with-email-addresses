@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bcb2ac150d7a0c5720e1cabe0b7eb8f5",
+    "content-hash": "f90e33dfb482f8c5bc89ce6cb9c323d5",
     "packages": [
         {
             "name": "ashallendesign/email-utilities",
